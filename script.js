@@ -20,11 +20,11 @@ document.querySelector('.work-link-cta-btn1').
     addEventListener('click', () => {
     window.open('https://vista-sable-nine.vercel.app', '_blank');
 });
-document.querySelector('.work-link-cta-btn-2').addEventListener('click', () => {
+document.querySelector('.work-link-cta-btn2').addEventListener('click', () => {
     window.open('https://mark-wayne.vercel.app', '_blank');
 });
 
-document.querySelector('.work-link-cta-btn-3').addEventListener('click', () => {
+document.querySelector('.work-link-cta-btn3').addEventListener('click', () => {
     window.open('https://jessica-parker.vercel.app', '_blank');
 });
 
