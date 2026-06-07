@@ -384,13 +384,7 @@ p{
     width: 100%;
     height: auto;
     border-radius: 8px;
-    background-color: transparent; /* Placeholder color for "Coming Soon" */
-   
-    
-}
-.work-proof-card:nth-child(2) .card-visual img,
-.work-proof-card:nth-child(3) .card-visual img {
-  filter: blur(10px);
+    background-color: transparent; /* Placeholder color for "Coming Soon" */    
 }
 /* CTA Button Styling */
 .work-link-cta-btn, .pricing-cta-btn {
