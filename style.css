@@ -359,11 +359,11 @@ p{
     box-shadow: 0 0 10px 2px rgba(44, 117, 255, 0.1);
     transition: box-shadow 0.3s ease;
 }
-.work-proof-card:first-of-type:hover{
+.work-proof-card:hover{
     border-color: #007bff;
     transform: translateY(-10px);
 }
-.work-proof-card:first-of-type:hover .card-visual {
+.work-proof-card:hover .card-visual {
     /* Make it "light up" on hover to look premium */
     border-color: #5591FF; /* Lighter blue */
     box-shadow: 0 0 20px 3px rgba(44, 117, 255, 0.6);
@@ -398,7 +398,7 @@ p{
     font-weight: 600;
     transition: background-color 0.3s ease-out;
     margin-top: auto; /* Pushes button to the bottom if content varies */
-    font-size:16px;
+    font-size:14px;
     letter-spacing: 0.05em;
 }
 
